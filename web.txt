@@ -1,0 +1,501 @@
+Program 1
+<html>
+<head>
+<title> ABC INFOTECH LTD</title>
+</head>
+<body>
+<h1><center> ABC INFOTECH LTD </center></h1>
+<marquee>This is an example of blinking text using CSS within a marquee.</marquee>
+<marquee behavior="scroll" direction="up" scrollamount="1">Slow Scrolling</marquee>
+<marquee behavior="scroll" direction="right" scrollamount="1">Little Fast Scrolling</marquee> ">Fast Scrolling</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="2" <marquee behavior="scroll" direction="right" scrollamount="5">Very Fast Scrolling</marquee>>
+<marquee width="60%" direction= "right" height="100px">
+This is a sample scrolling text that has scrolls texts to the right.
+</marquee>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------------------
+
+Program 2
+Menu.html
+<html>
+<head>
+<title>Hotel Menu</title>
+</head>
+<body>
+<h1>Green Leaf Hotel</h1>
+<h2>Menu</h2>
+<ul>
+<li><a href="biriyani.html">Chicken Biriyani</a></li>
+<li><a href="meals.html">Veg Meals</a></li>
+<li><a href="noodles.html">Veg Noodles</a></li>
+<li><a href="juice.html">Fresh Juice</a></li>
+</ul>
+</body>
+</html>
+Biriyani.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Chicken Biriyani</title>
+</head>
+<body>
+<h1>Chicken Biriyani</h1>
+<p>Price: ₹180</p>
+<p>Delicious biriyani with spices</p>
+<a href="menu3.html">Back to Menu</a>
+</body>
+</html>
+Juice.html
+<html>
+<head>
+<title>Fresh Juice</title>
+</head>
+<body>
+<h1>Fresh Juice</h1>
+<p>Price: ₹60</p>
+<p>Fresh seasonal fruit juice</p>
+<a href="menu3.html">Back to Menu</a>
+</body>
+</html>
+Meals.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Veg Meals</title>
+</head>
+<body>
+<h1>Veg Meals</h1>
+<p>Price: ₹120</p>
+<p>Rice with curry, sambar and vegetables</p>
+<a href="menu3.html">Back to Menu</a>
+</body></html>
+Noodles.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Veg Noodles</title>
+</head>
+<body>
+<h1>Veg Noodles</h1>
+<p>Price: ₹100</p>
+<p>Stir-fried noodles with vegetables</p>
+<a href="menu3.html">Back to Menu</a>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------------------
+
+Program 3
+Company Balance Sheets.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Company List</title>
+</head>
+<body>
+<h1>Company Balance Sheets</h1>
+<h2>Select a Company</h2>
+<ul>
+<li><a href="tcs.html">TCS</a></li>
+<li><a href="infosys.html">Infosys</a></li>
+<li><a href="wipro.html">Wipro</a></li>
+</ul>
+</body>
+</html>
+Infosys Balance Sheet.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Infosys Balance Sheet</title>
+</head>
+<body>
+<h1>Infosys Balance Sheet</h1>
+<p>Total Assets: ₹1,20,000 Crores</p>
+<p>Total Liabilities: ₹50,000 Crores</p>
+<p>Net Profit: ₹35,000 Crores</p>
+<a href="companies.html">Back to Company List</a>
+</body>
+</html>
+TCS Balance Sheet.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>TCS Balance Sheet</title>
+</head>
+<body>
+<h1>TCS Balance Sheet</h1>
+<p>Total Assets: ₹1,50,000 Crores</p>
+<p>Total Liabilities: ₹60,000 Crores</p>
+<p>Net Profit: ₹40,000 Crores</p>
+<a href="companies.html">Back to Company List</a>
+</body>
+</html>
+Wipro Balance Sheet.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wipro Balance Sheet</title>
+</head>
+<body>
+<h1>Wipro Balance Sheet</h1>
+<p>Total Assets: ₹90,000 Crores</p>
+<p>Total Liabilities: ₹40,000 Crores</p>
+<p>Net Profit: ₹20,000 Crores</p>
+<a href="companies.html">Back to Company List</a>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------------------
+
+Program 4
+Balance Sheet.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Balance Sheet</title>
+</head>
+<body>
+<h1>Balance Sheet</h1>
+<p>Total Assets: ₹5,00,000</p>
+<p>Total Liabilities: ₹2,00,000</p>
+<p>Net Profit: ₹3,00,000</p>
+<a href="index.html">Back to Home</a>
+</body>
+</html>
+Employee Details.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Employee Details</title>
+</head>
+<body>
+<h1>Employee Details</h1>
+<p>Employee 1: Raj – Manager</p>
+<p>Employee 2: Anu – Developer</p>
+<p>Employee 3: Ravi – Tester</p>
+<a href="index.html">Back to Home</a>
+</body>
+</html>
+XYZ INFOTECH LTD.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>XYZ Infotech Ltd</title>
+</head>
+<body>
+<h1>XYZ INFOTECH LTD.</h1>
+<h2>Welcome to Our Company</h2>
+<ul>
+<li><a href="profile.html">Company Profile</a></li>
+<li><a href="employees.html">Employee Details</a></li>
+<li><a href="balance.html">Balance Sheet</a></li>
+<li><a href="resume.html">Submit Resume</a></li>
+<li><a href="service.html">Customer Service</a></li>
+</ul>
+</body>
+</html>
+Company Profile.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Company Profile</title>
+</head>
+<body>
+<h1>Company Profile</h1>
+<p>XYZ Infotech Ltd is a software development company.</p>
+<p>Founded in 2010</p>
+<p>Location: Bangalore</p>
+<a href="index.html">Back to Home</a>
+</body>
+</html>
+Submit Resume.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Submit Resume</title>
+</head>
+<body>
+<h1>Submit Your Resume</h1>
+<form>
+Name: <input type="text"><br><br>
+Email: <input type="email"><br><br>
+Resume: <input type="file"><br><br>
+<input type="submit" value="Submit">
+</form>
+<br>
+<a href="index.html">Back to Home</a>
+</body>
+</html>
+Customer Service.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Customer Service</title>
+</head>
+<body>
+<h1>Customer Service</h1>
+<p>Email: support@xyzinfotech.com</p>
+<p>Phone: 1234567890</p>
+<p>Working Hours: 9 AM – 6 PM</p>
+<a href="index.html">Back to Home</a>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------------------
+
+Program 5
+Booking.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Booking</title>
+</head>
+<body>
+<h1>Booking</h1>
+<form>
+Name: <input type="text"><br><br>
+Destination: <input type="text"><br><br>
+<input type="submit" value="Book Now">
+</form>
+</body>
+</html>
+Contact..html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact</title>
+</head>
+<body>
+<h1>Contact Us</h1>
+<p>Email: travel@happyagency.com</p>
+<p>Phone: 9999999777</p>
+</body>
+</html>
+Home.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home</title>
+</head>
+<body>
+<h1>Welcome to Happy Travel Agency</h1>
+<p>We offer the best travel packages.</p>
+</body>
+</html>
+Travel Agency.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Travel Agency</title>
+</head>
+<frameset cols="50%,50%">
+<frame src="menu.html">
+<frame src="home.html" name="content">
+</frameset>
+</html>
+Menu.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Menu</title>
+</head>
+<body>
+<h3>Travel Menu</h3>
+<a href="home.html" target="content">Home</a><br><br>
+<a href="packages.html" target="content">Tour Packages</a><br><br>
+<a href="booking.html" target="content">Booking</a><br><br>
+<a href="contact.html" target="content">Contact Us</a>
+</body>
+</html>
+Tour Packages.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tour Packages</title>
+</head>
+<body>
+<h1>Tour Packages</h1>
+<p>Goa Tour – ₹15,000</p>
+<p>Kerala Tour – ₹20,000</p>
+<p>Delhi Tour – ₹12,000</p>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------------------
+
+
+Program 6
+College Admission Form.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>College Admission Form</title>
+</head>
+<body>
+<h1>Bharathidasan University Distance Education</h1>
+<h2>Student Admission Form</h2>
+<form>
+<!-- Text Box -->
+Name:
+<input type="text" name="name"><br><br>
+<!-- Rich Text Box (Textarea) -->
+Address:
+<br>
+<textarea name="address" rows="4" cols="30"></textarea><br><br>
+<!-- Radio Buttons -->
+Gender:
+<input type="radio" name="gender" value="male"> Male
+<input type="radio" name="gender" value="female"> Female
+<br><br>
+<!-- List Box -->
+Course:
+<select name="course">
+<option>M.Sc (CS)</option>
+<option>M.C.A</option>
+<option>M.Sc (IT)</option>
+<option>B.C.A</option>
+</select>
+<br><br>
+<!-- Check Box -->
+Hobbies:
+<input type="checkbox"> Sports
+<input type="checkbox"> Music
+<input type="checkbox"> Reading
+<br><br>
+<br><br>
+<!-- Command Buttons -->
+<input type="submit" value="Submit Application">
+<input type="reset" value="Reset Form">
+</form>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------------------
+
+Program 7
+Admission.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>College Admission Form</title>
+</head>
+<body>
+<h1>Bharathidasan University Distance Education</h1>
+<h2>Student Admission Form</h2>
+<form>
+<!-- Text Box -->
+Name:
+<input type="text" name="name"><br><br>
+<!-- Rich Text Box (Textarea) -->
+Address:
+<br>
+<textarea name="address" rows="4" cols="30"></textarea><br><br>
+<!-- Radio Buttons --
+Gender:
+<input type="radio" name="gender" value="male"> Male
+<input type="radio" name="gender" value="female"> Female
+<br><br>
+<!-- List Box -->
+Course:
+<select name="course">
+<option>M.Sc (CS)</option>
+<option>M.C.A</option>
+<option>M.Sc (IT)</option>
+<option>B.C.A</option>
+</select>
+<br><br>
+<!-- Check Box -->
+Hobbies:
+<input type="checkbox"> Sports
+<input type="checkbox"> Music
+<input type="checkbox"> Reading
+<br><br>
+<br><br>
+<!-- Command Buttons -->
+<input type="submit" value="Submit Application">
+<input type="reset" value="Reset Form">
+</form>
+</body>
+</html>
+
+
+----------------------------------------------------------------------------------------------------------------
+
+Program 8
+<!DOCTYPE html>
+<html>
+<head>
+<title>Multiplication Table</title>
+<script>
+function showTable() {
+var num = prompt("Enter a number for multiplication table:");
+var table = "";
+for (var i = 1; i <= 10; i++) {
+table += num + " × " + i + " = " + (num * i) + "<br>";
+} //document.write(table);
+document.getElementById("result").innerHTML = table;
+}
+</script>
+</head>
+<body>
+<h1>Multiplication Table</h1>
+<!-- Button to trigger table -->
+<input type="button" value="Generate Table" onclick="showTable()">
+<h2>Result:</h2>
+<div id="result"></div>
+</body>
+</html>
+
+
+----------------------------------------------------------------------------------------------------------------
+Program 9
+Vehicle Dealer.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>XYZ Vehicle Dealer</title>
+<script>
+function showDateTime() {
+var now = new Date();
+document.getElementById("datetime").innerHTML = now.toLocaleString();
+}
+function showVehicleDetails() {
+var vehicle = document.getElementById("vehicleSelect").value;
+var details = "";
+if (vehicle === "car") {
+details = "Car - Model: Toyota Corolla, Price: ₹12,00,000, Fuel: Petrol";
+} else if (vehicle === "bike") {
+details = "Bike - Model: Royal Enfield Classic, Price: ₹1,50,000, Fuel: Petrol";
+} else if (vehicle === "suv") {
+details = "SUV - Model: Hyundai Creta, Price: ₹15,00,000, Fuel: Diesel";
+} else {
+details = "Please select a vehicle";
+}
+document.getElementById("vehicleDetails").innerHTML = details;
+}
+</script>
+</head>
+<body onload="showDateTime()">
+<h1>XYZ Vehicle Dealer</h1>
+<!-- Display Current Date & Time -->
+<p>Current Date and Time: <span id="datetime"></span></p>
+<!-- Vehicle Selection -->
+<h3>Select a Vehicle:</h3>
+<select id="vehicleSelect">
+<option value="">--Select--</option>
+<option value="car">Car</option>
+<option value="bike">Bike</option>
+<option value="suv">SUV</option>
+</select>
+<br><br>
+<input type="button" value="Show Details" onclick="showVehicleDetails()">
+<!-- Display Vehicle Details -->
+<h3>Vehicle Details:</h3>
+<p id="vehicleDetails"></p>
+</body>
+</html>
+
+
+----------------------------------------------------------------------------------------------------------------
